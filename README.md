@@ -14,7 +14,7 @@
  - Software testing
  - Creating test cases
  - Reporting bugs
- - GitHub
+ - Git
 
 # Courses
  - Testuj.pl - Akademia Testowania wraz z praktykami
