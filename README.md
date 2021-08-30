@@ -25,16 +25,7 @@ constantly improve my skills.
  - HTML
  - CSS
  - Python
-
-# Courses
- - Testuj.pl - Akademia Testowania wraz z praktykami
- - Kurs SQL - Krystian Brożek
   
 # Books
  - R.Smilgin - Zawód tester
   
-# Groups on Facebook
- - Zdalne Warsztaty QA
- - Tester oprogramowania - wsparcie na starcie
- - Obudź w sobie Geeka
- - Gildia Mistrzów Baz Danych
