@@ -13,17 +13,17 @@ constantly improve my skills.
  - Testlink
  - SQL Server Managment Studio
  - Postman
+ - Git
+ - MS Office
  - Slack
  - MS Teams
- - Git
 
 # Tech skills - Basic
  - Software testing
  - Creating test cases
  - Reporting bugs
  - SQL
- - HTML
- - CSS
+ - HTML, CSS
  - Python
   
 # Books
