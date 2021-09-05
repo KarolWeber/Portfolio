@@ -20,12 +20,15 @@ constantly improve my skills.
 
 # Tech skills - Basic
  - Software testing
- - Creating test cases
+ - Creating and executing test cases
  - Reporting bugs
  - SQL
  - HTML, CSS
  - Python
-  
+
+# CERTIFICATES
+ - 2019-08-30 ISTQB FL
+
 # Books
  - R.Smilgin - Zawód tester
   
