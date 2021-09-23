@@ -14,6 +14,7 @@ constantly improve my skills.
  - SQL Server Managment Studio
  - Postman
  - Git
+ - Chrome DevTools
  - MS Office
  - Slack
  - MS Teams
