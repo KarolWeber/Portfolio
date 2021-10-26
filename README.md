@@ -26,6 +26,7 @@ constantly improve my skills.
  - SQL
  - HTML, CSS
  - Python
+ - Selenium Webdriver
 
 # CERTIFICATES
  - 2019-08-30 ISTQB FL
